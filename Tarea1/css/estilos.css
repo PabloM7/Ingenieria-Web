@@ -1,0 +1,30 @@
+*{
+ padding: 1;
+ margin: 1;   
+}
+body{
+	width: 90%;
+	background-color: black;
+	color: white;
+    font-family: lucida bright;
+}
+
+header.cabecera{
+	text-align: center;
+}
+
+section.introduccion{
+	text-align: justify;
+}
+
+section.warcraft{
+	text-align: center;
+}
+
+section.wow{
+	text-align: center;
+}
+
+section.bfa{
+	text-align: center;
+}

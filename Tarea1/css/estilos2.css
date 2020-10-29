@@ -1,0 +1,49 @@
+*{
+ padding: 1;
+ margin: 1;   
+}
+body{
+	background-color: black;
+	color: white;
+    font-family: lucida bright;
+}
+
+header.cabecera{
+	width: 90%;
+	text-align: center;
+}
+
+section.kultiras{
+	width: 90%;
+	text-align: justify;
+}
+
+section.zandalar{
+	width: 90%;
+	text-align: justify;
+}
+
+section.razas{
+	width: 90%;
+	text-align: center;
+}
+
+section.zandalari{
+	width: 90%;
+	text-align: justify;
+}
+
+section.nocheterna{
+	width: 90%;
+	text-align: justify;
+}
+
+section.kultiranos{
+	width: 90%;
+	text-align: justify;
+}
+
+section.elfos{
+	width: 90%;
+	text-align: justify;
+}
